@@ -1,7 +1,7 @@
-# dev-tools
+# Dev Tools
 The list of tools I use for development.
 
-## Jetbrain IDE Plugins
+## Jetbrains Plugins
 
 - WakaTime
 - Key Promoter X
